@@ -1,0 +1,363 @@
+--2019-12-11 12:42:06--  https://www.deskchan.info/
+Распознаётся www.deskchan.info (www.deskchan.info)… 104.18.62.182, 104.18.63.182, 2606:4700:30::6812:3fb6, ...
+Подключение к www.deskchan.info (www.deskchan.info)|104.18.62.182|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [text/html]
+Сохранение в: «www.deskchan.info/index.html»
+
+     0K .......... .......... ...                              1,60M=0,01s
+
+2019-12-11 12:42:07 (1,60 MB/s) - «www.deskchan.info/index.html» сохранён [23675]
+
+Загрузка robots.txt; не обращайте внимания на ошибки.
+--2019-12-11 12:42:07--  https://www.deskchan.info/robots.txt
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 404 Not Found
+2019-12-11 12:42:07 ОШИБКА 404: Not Found.
+
+--2019-12-11 12:42:07--  https://www.deskchan.info/layout/styles/layout.css
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [text/css]
+Сохранение в: «www.deskchan.info/layout/styles/layout.css»
+
+     0K .......... .......... ..                               1,13M=0,02s
+
+2019-12-11 12:42:07 (1,13 MB/s) - «www.deskchan.info/layout/styles/layout.css» сохранён [22751]
+
+--2019-12-11 12:42:07--  https://www.deskchan.info/script.js
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 5294 (5,2K) [application/javascript]
+Сохранение в: «www.deskchan.info/script.js»
+
+     0K .....                                                 100% 4,74M=0,001s
+
+2019-12-11 12:42:07 (4,74 MB/s) - «www.deskchan.info/script.js» сохранён [5294/5294]
+
+--2019-12-11 12:42:07--  https://www.deskchan.info/images/backgrounds/01.png
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [image/png]
+Сохранение в: «www.deskchan.info/images/backgrounds/01.png»
+
+     0K .......... .......... .......... .......... .......... 1,06M
+    50K .......... .......... .......... .......... ..........  544K
+   100K .......... .......... .......... .......... .......... 1,03M
+   150K .......... .......... .......... .......... .......... 1006K
+   200K .......... .......... .......... .......... .......... 2,06M
+   250K .......... .......... .......... .......... .......... 1,64M
+   300K .......... .......... .......... .......... .......... 2,42M
+   350K .......... .......... .......... .......... .......... 1,82M
+   400K .......... .......... .......... .......... .......... 2,28M
+   450K .......... .......... .......... .......... .......... 3,56M
+   500K .......... .......... .......... .......... .......... 3,57M
+   550K .......... .......... .......... .......... .......... 2,95M
+   600K .......... .......... .......... .......... .......... 5,07M
+   650K .......... .......... .......... .......... .......... 4,28M
+   700K .......... ...                                         5,41M=0,4s
+
+2019-12-11 12:42:08 (1,64 MB/s) - «www.deskchan.info/images/backgrounds/01.png» сохранён [730225]
+
+--2019-12-11 12:42:08--  https://www.deskchan.info/index.html
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [text/html]
+Сохранение в: «www.deskchan.info/index.html»
+
+     0K .......... .......... ...                              14,7M=0,002s
+
+2019-12-11 12:42:08 (14,7 MB/s) - «www.deskchan.info/index.html» сохранён [23675]
+
+--2019-12-11 12:42:08--  https://www.deskchan.info/images/tyan.png
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [image/png]
+Сохранение в: «www.deskchan.info/images/tyan.png»
+
+     0K .......... .......... .......... .......... .......... 8,58M
+    50K .......... .......... .......... .......... .......... 6,65M
+   100K .......... .......... .......... .......... .......... 8,49M
+   150K .......... .......... .......... ......                13,8M=0,02s
+
+2019-12-11 12:42:08 (8,53 MB/s) - «www.deskchan.info/images/tyan.png» сохранён [191044]
+
+--2019-12-11 12:42:08--  https://www.deskchan.info/images/code.jpg
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [image/jpeg]
+Сохранение в: «www.deskchan.info/images/code.jpg»
+
+     0K .......... .......... .......... .......... .......... 13,7M
+    50K .......                                                 320M=0,004s
+
+2019-12-11 12:42:09 (15,7 MB/s) - «www.deskchan.info/images/code.jpg» сохранён [59080]
+
+--2019-12-11 12:42:09--  https://www.deskchan.info/images/draw.jpg
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [image/jpeg]
+Сохранение в: «www.deskchan.info/images/draw.jpg»
+
+     0K .......... .......... .......... .......... .......... 9,39M
+    50K .......... .......... .......... ...                   9,64M=0,009s
+
+2019-12-11 12:42:09 (9,49 MB/s) - «www.deskchan.info/images/draw.jpg» сохранён [85694]
+
+--2019-12-11 12:42:09--  https://www.deskchan.info/images/scenario.jpg
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [image/jpeg]
+Сохранение в: «www.deskchan.info/images/scenario.jpg»
+
+     0K .......... .......... .......... .......... .......... 9,13M
+    50K .......... ..........                                  10,3M=0,007s
+
+2019-12-11 12:42:09 (9,45 MB/s) - «www.deskchan.info/images/scenario.jpg» сохранён [72290]
+
+--2019-12-11 12:42:09--  https://www.deskchan.info/images/vk-logo.png
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [image/png]
+Сохранение в: «www.deskchan.info/images/vk-logo.png»
+
+     0K ..........                                              280M=0s
+
+2019-12-11 12:42:09 (280 MB/s) - «www.deskchan.info/images/vk-logo.png» сохранён [10327]
+
+--2019-12-11 12:42:09--  https://www.deskchan.info/cdn-cgi/l/email-protection
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [text/html]
+Сохранение в: «www.deskchan.info/cdn-cgi/l/email-protection»
+
+     0K ...                                                     532M=0s
+
+2019-12-11 12:42:09 (532 MB/s) - «www.deskchan.info/cdn-cgi/l/email-protection» сохранён [3906]
+
+--2019-12-11 12:42:09--  https://www.deskchan.info/mail.png
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1115 (1,1K) [image/png]
+Сохранение в: «www.deskchan.info/mail.png»
+
+     0K .                                                     100%  315M=0s
+
+2019-12-11 12:42:09 (315 MB/s) - «www.deskchan.info/mail.png» сохранён [1115/1115]
+
+--2019-12-11 12:42:09--  https://www.deskchan.info/0chan.png
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1198 (1,2K) [image/png]
+Сохранение в: «www.deskchan.info/0chan.png»
+
+     0K .                                                     100%  341M=0s
+
+2019-12-11 12:42:10 (341 MB/s) - «www.deskchan.info/0chan.png» сохранён [1198/1198]
+
+--2019-12-11 12:42:10--  https://www.deskchan.info/tulpa.png
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1165 (1,1K) [image/png]
+Сохранение в: «www.deskchan.info/tulpa.png»
+
+     0K .                                                     100%  340M=0s
+
+2019-12-11 12:42:10 (340 MB/s) - «www.deskchan.info/tulpa.png» сохранён [1165/1165]
+
+--2019-12-11 12:42:10--  https://www.deskchan.info/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1239 (1,2K) [application/javascript]
+Сохранение в: «www.deskchan.info/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js»
+
+     0K .                                                     100% 94,7M=0s
+
+2019-12-11 12:42:10 (94,7 MB/s) - «www.deskchan.info/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js» сохранён [1239/1239]
+
+--2019-12-11 12:42:10--  https://www.deskchan.info/layout/scripts/jquery.min.js
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 85589 (84K) [application/javascript]
+Сохранение в: «www.deskchan.info/layout/scripts/jquery.min.js»
+
+     0K .......... .......... .......... .......... .......... 59% 9,07M 0s
+    50K .......... .......... .......... ...                  100% 15,0M=0,008s
+
+2019-12-11 12:42:10 (10,8 MB/s) - «www.deskchan.info/layout/scripts/jquery.min.js» сохранён [85589/85589]
+
+--2019-12-11 12:42:10--  https://www.deskchan.info/layout/scripts/jquery.backtotop.js
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 591 [application/javascript]
+Сохранение в: «www.deskchan.info/layout/scripts/jquery.backtotop.js»
+
+     0K                                                       100%  178M=0s
+
+2019-12-11 12:42:10 (178 MB/s) - «www.deskchan.info/layout/scripts/jquery.backtotop.js» сохранён [591/591]
+
+--2019-12-11 12:42:10--  https://www.deskchan.info/layout/scripts/jquery.mobilemenu.js
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1280 (1,2K) [application/javascript]
+Сохранение в: «www.deskchan.info/layout/scripts/jquery.mobilemenu.js»
+
+     0K .                                                     100%  341M=0s
+
+2019-12-11 12:42:10 (341 MB/s) - «www.deskchan.info/layout/scripts/jquery.mobilemenu.js» сохранён [1280/1280]
+
+--2019-12-11 12:42:10--  https://www.deskchan.info/layout/scripts/jquery.placeholder.min.js
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 2702 (2,6K) [application/javascript]
+Сохранение в: «www.deskchan.info/layout/scripts/jquery.placeholder.min.js»
+
+     0K ..                                                    100%  331M=0s
+
+2019-12-11 12:42:10 (331 MB/s) - «www.deskchan.info/layout/scripts/jquery.placeholder.min.js» сохранён [2702/2702]
+
+--2019-12-11 12:42:10--  https://www.deskchan.info/layout/styles/fontawesome-4.5.0.min.css
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [text/css]
+Сохранение в: «www.deskchan.info/layout/styles/fontawesome-4.5.0.min.css»
+
+     0K .......... .......... ......                           23,9M=0,001s
+
+2019-12-11 12:42:11 (23,9 MB/s) - «www.deskchan.info/layout/styles/fontawesome-4.5.0.min.css» сохранён [27448]
+
+--2019-12-11 12:42:11--  https://www.deskchan.info/layout/styles/framework.css
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 4500 (4,4K) [text/css]
+Сохранение в: «www.deskchan.info/layout/styles/framework.css»
+
+     0K ....                                                  100% 1,11G=0s
+
+2019-12-11 12:42:11 (1,11 GB/s) - «www.deskchan.info/layout/styles/framework.css» сохранён [4500/4500]
+
+--2019-12-11 12:42:11--  https://www.deskchan.info/layout/styles/fonts/Lato-Bold.ttf
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 600856 (587K) [application/octet-stream]
+Сохранение в: «www.deskchan.info/layout/styles/fonts/Lato-Bold.ttf»
+
+     0K .......... .......... .......... .......... ..........  8% 9,37M 0s
+    50K .......... .......... .......... .......... .......... 17% 8,97M 0s
+   100K .......... .......... .......... .......... .......... 25% 8,96M 0s
+   150K .......... .......... .......... .......... .......... 34% 8,83M 0s
+   200K .......... .......... .......... .......... .......... 42% 8,86M 0s
+   250K .......... .......... .......... .......... .......... 51% 9,07M 0s
+   300K .......... .......... .......... .......... .......... 59% 8,69M 0s
+   350K .......... .......... .......... .......... .......... 68% 6,71M 0s
+   400K .......... .......... .......... .......... .......... 76% 8,74M 0s
+   450K .......... .......... .......... .......... .......... 85% 8,59M 0s
+   500K .......... .......... .......... .......... .......... 93% 9,13M 0s
+   550K .......... .......... .......... ......               100% 11,4M=0,07s
+
+2019-12-11 12:42:11 (8,79 MB/s) - «www.deskchan.info/layout/styles/fonts/Lato-Bold.ttf» сохранён [600856/600856]
+
+--2019-12-11 12:42:11--  https://www.deskchan.info/layout/styles/fonts/Lato-Light.ttf
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 617492 (603K) [application/octet-stream]
+Сохранение в: «www.deskchan.info/layout/styles/fonts/Lato-Light.ttf»
+
+     0K .......... .......... .......... .......... ..........  8% 9,57M 0s
+    50K .......... .......... .......... .......... .......... 16% 8,76M 0s
+   100K .......... .......... .......... .......... .......... 24% 8,66M 0s
+   150K .......... .......... .......... .......... .......... 33% 9,43M 0s
+   200K .......... .......... .......... .......... .......... 41% 8,79M 0s
+   250K .......... .......... .......... .......... .......... 49% 8,62M 0s
+   300K .......... .......... .......... .......... .......... 58% 9,27M 0s
+   350K .......... .......... .......... .......... .......... 66% 6,54M 0s
+   400K .......... .......... .......... .......... .......... 74% 9,02M 0s
+   450K .......... .......... .......... .......... .......... 82% 8,73M 0s
+   500K .......... .......... .......... .......... .......... 91% 8,76M 0s
+   550K .......... .......... .......... .......... .......... 99% 9,81M 0s
+   600K ...                                                   100% 5759G=0,07s
+
+2019-12-11 12:42:11 (8,79 MB/s) - «www.deskchan.info/layout/styles/fonts/Lato-Light.ttf» сохранён [617492/617492]
+
+--2019-12-11 12:42:11--  https://www.deskchan.info/layout/styles/fonts/fontawesome-webfont.eot?v=4.5.0
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 70807 (69K) [application/vnd.ms-fontobject]
+Сохранение в: «www.deskchan.info/layout/styles/fonts/fontawesome-webfont.eot?v=4.5.0»
+
+     0K .......... .......... .......... .......... .......... 72% 9,31M 0s
+    50K .......... .........                                  100% 28,3M=0,006s
+
+2019-12-11 12:42:12 (11,4 MB/s) - «www.deskchan.info/layout/styles/fonts/fontawesome-webfont.eot?v=4.5.0» сохранён [70807/70807]
+
+--2019-12-11 12:42:12--  https://www.deskchan.info/layout/styles/fonts/fontawesome-webfont.eot?
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 70807 (69K) [application/vnd.ms-fontobject]
+Сохранение в: «www.deskchan.info/layout/styles/fonts/fontawesome-webfont.eot?»
+
+     0K .......... .......... .......... .......... .......... 72% 9,21M 0s
+    50K .......... .........                                  100% 35,1M=0,006s
+
+2019-12-11 12:42:12 (11,6 MB/s) - «www.deskchan.info/layout/styles/fonts/fontawesome-webfont.eot?» сохранён [70807/70807]
+
+--2019-12-11 12:42:12--  https://www.deskchan.info/layout/styles/fonts/fontawesome-webfont.woff2?v=4.5.0
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 66624 (65K) [font/woff2]
+Сохранение в: «www.deskchan.info/layout/styles/fonts/fontawesome-webfont.woff2?v=4.5.0»
+
+     0K .......... .......... .......... .......... .......... 76% 9,52M 0s
+    50K .......... .....                                      100%  168M=0,005s
+
+2019-12-11 12:42:12 (12,2 MB/s) - «www.deskchan.info/layout/styles/fonts/fontawesome-webfont.woff2?v=4.5.0» сохранён [66624/66624]
+
+--2019-12-11 12:42:12--  https://www.deskchan.info/layout/styles/fonts/fontawesome-webfont.woff?v=4.5.0
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 83588 (82K) [font/woff]
+Сохранение в: «www.deskchan.info/layout/styles/fonts/fontawesome-webfont.woff?v=4.5.0»
+
+     0K .......... .......... .......... .......... .......... 61% 9,30M 0s
+    50K .......... .......... .......... .                    100% 14,1M=0,007s
+
+2019-12-11 12:42:12 (10,7 MB/s) - «www.deskchan.info/layout/styles/fonts/fontawesome-webfont.woff?v=4.5.0» сохранён [83588/83588]
+
+--2019-12-11 12:42:12--  https://www.deskchan.info/layout/styles/fonts/fontawesome-webfont.ttf?v=4.5.0
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 142072 (139K) [application/octet-stream]
+Сохранение в: «www.deskchan.info/layout/styles/fonts/fontawesome-webfont.ttf?v=4.5.0»
+
+     0K .......... .......... .......... .......... .......... 36% 7,48M 0s
+    50K .......... .......... .......... .......... .......... 72% 10,6M 0s
+   100K .......... .......... .......... ........             100% 14,1M=0,01s
+
+2019-12-11 12:42:12 (9,79 MB/s) - «www.deskchan.info/layout/styles/fonts/fontawesome-webfont.ttf?v=4.5.0» сохранён [142072/142072]
+
+--2019-12-11 12:42:12--  https://www.deskchan.info/layout/styles/fonts/fontawesome-webfont.svg?v=4.5.0
+Повторное использование соединения с www.deskchan.info:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 365616 (357K) [image/svg+xml]
+Сохранение в: «www.deskchan.info/layout/styles/fonts/fontawesome-webfont.svg?v=4.5.0»
+
+     0K .......... .......... .......... .......... .......... 14% 9,76M 0s
+    50K .......... .......... .......... .......... .......... 28% 9,01M 0s
+   100K .......... .......... .......... .......... .......... 42% 8,81M 0s
+   150K .......... .......... .......... .......... .......... 56% 8,81M 0s
+   200K .......... .......... .......... .......... .......... 70% 9,11M 0s
+   250K .......... .......... .......... .......... .......... 84% 7,15M 0s
+   300K .......... .......... .......... .......... .......... 98% 11,2M 0s
+   350K .......                                               100% 10,3M=0,04s
+
+2019-12-11 12:42:13 (9,00 MB/s) - «www.deskchan.info/layout/styles/fonts/fontawesome-webfont.svg?v=4.5.0» сохранён [365616/365616]
+
+ЗАВЕРШЕНО --2019-12-11 12:42:13--
+Общее время: 6,5s
+Загружено: 29 файлов, 3,2M за 0,7s (4,47 MB/s)
+Преобразование ссылок в www.deskchan.info/index.html… 24-0
+Преобразование ссылок в www.deskchan.info/cdn-cgi/l/email-protection… 0-3
+Преобразование ссылок в www.deskchan.info/layout/styles/framework.css… действия не заданы.
+Преобразование ссылок в www.deskchan.info/layout/styles/layout.css… 4-0
+Преобразование ссылок в www.deskchan.info/layout/styles/fontawesome-4.5.0.min.css… 6-0
+Ссылки преобразованы в файлы (5) за 0,001 секунд.

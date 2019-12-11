@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<!--
+ #####                                                                             
+#     # #    #  ####  ######   ##   #       ####        #####    ##   #    #   ##  
+# ### # #   #  #    #     #   #  #  #      #    #       #    #  #  #  #   #   #  # 
+# ### # ####   #    #    #   #    # #      #    # ##### #####  #    # ####   #    #
+# ####  #  #   #    #   #    ###### #      #    #       #    # ###### #  #   ######
+#       #   #  #    #  #     #    # #      #    #       #    # #    # #   #  #    #
+ #####  #    #  ####  ###### #    # ######  ####        #####  #    # #    # #    #
+-->
+
+<!-- The End. -->
+
+<html>
+	<head>
+		<title>DeskChan</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script type="text/javascript" src="script.js"></script>
+		<script>
+			(function(i, s, o, g, r, a, m) {
+				i['GoogleAnalyticsObject'] = r;
+				i[r] = i[r] || function() {
+					(i[r].q = i[r].q || []).push(arguments)
+				}, i[r].l = 1 * new Date();
+				a = s.createElement(o),
+					m = s.getElementsByTagName(o)[0];
+				a.async = 1;
+				a.src = g;
+				m.parentNode.insertBefore(a, m)
+			})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+			ga('create', 'UA-73627212-2', 'auto');
+			ga('send', 'pageview');
+		</script>
+	</head>
+	<body id="top">
+		<div class="bgded" style="background-image:url('images/backgrounds/01.png');">
+			<div class="wrapper overlay">
+				<header id="header" class="hoc clear">
+					<nav id="mainav" class="clear">
+						<ul class="clear">
+							<li class="active"><a href="index.html">Главная</a></li>
+							<li><a href="https://forum.deskchan.info/category/1/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8">Новости</a></li>
+							<li><a href="https://github.com/deskchanproject/DeskChanJava/wiki">Документация</a></li>
+							<li><a href="https://forum.deskchan.info/">Форум</a></li>
+							<li><a href="index.html#contacts">Контакты</a></li>
+						</ul>
+					</nav>
+				</header>
+			</div>
+			<div id="pageintro" class="hoc clear">
+				<article>
+					<a href="index.html#pros" style='cursor:default'>
+						<div class="introtxt">
+							<h2 class="heading">DeskChan - Project closed</h2>
+							<p>Твой персональный цифровой ассистент</p>
+						</div>
+					</a>
+					<footer>
+						<ul class="nospace inline pushright">
+							<li>
+								<a class="btn " target="_blank" href="https://github.com/deskchanproject/DeskChanJava">
+									<p style="float:right"><b>Исходный код</b><br>GitHub</p>
+									<i class="fa fa-github" style="float:left"></i>
+								</a>
+							</li>
+							<li>
+								<a class="btn get-dc" target="_blank" href="http://deskchan.info/deskchan.zip">
+									<p style="float:left"><b>Загрузить</b><br><span class='version-short'>0.2.0</span>, <span class="size-short">~22</span> МБ</p>
+									<i class="fa fa-download" style="float:right"></i>
+								</a>
+							</li>
+						</ul>
+					</footer>
+				</article>
+			</div>
+		</div>
+		<div class="wrapper row3" id="pros">
+			<div class="hoc clear">
+				<div class="row">
+					<div class="works_2_content">
+						<div class="tyan-side-block">
+							<img src="images/tyan.png" style="height:680px" alt="that shit we need artists">
+						</div>
+						<div class="col-sm-8 col-xs-12 top-margin">
+							<div class="row" style="padding: 40px 0px;">
+								<h1 id="revolution">DeskChan - революция в сфере<br>персональных ассистентов!</h1>
+								<div class="feature-col">
+									<i class="fa fa-cogs"></i>
+									<div class="text_details">
+										<h3>Настраиваемость</h3>
+										<p>Через множество настроек и плагинов настройте своего помощника так, как вам удобно.</p>
+									</div>
+								</div>
+								<div class="feature-col">
+									<i class="fa fa-gift"></i>
+									<div class="text_details">
+										<h3>Бесплатность</h3>
+										<p>Абсолютно весь функционал бесплатен и доступен любому.</p>
+									</div>
+								</div>
+								<div class="feature-col">
+									<i class="fa fa-font"></i>
+									<div class="text_details">
+										<h3>Русский язык</h3>
+										<p>Помощник разрабатывается прежде всего под нужды русскоязычного пользователя.</p>
+									</div>
+								</div>
+								<div class="feature-col">
+									<i class="fa fa-users"></i>
+									<div class="text_details">
+										<h3>Открытость</h3>
+										<p>Ход разработки и исходный код полностью открыты, принять участие может любой.</p>
+									</div>
+								</div>
+								<div class="feature-col">
+									<i class="fa fa-lock"></i>
+									<div class="text_details">
+										<h3>Безопасность</h3>
+										<p>Все данные и вычисления останутся на вашем устройстве. Вы можете быть уверены за свою сохранность.</p>
+									</div>
+								</div>
+								<div class="feature-col">
+									<i class="fa fa-smile-o"></i>
+									<div class="text_details">
+										<h3>Общение</h3>
+										<p>Наш помощник - живой. Он не только выполняет задачи, но и поддержит беседу.*</p>
+										<p style="font-size: 0.9em;">* Эта функция в разработке.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="bgded overlay" style="background-image:url('images/backgrounds/01.png');">
+			<section class="testimonials hoc container clear">
+				<div>
+					<h1 class="heading">Чего мы хотим?</h1>
+					<p>Разработчики DeskChan - это не какая-то мега-корпорация и не стартап по печатанью денег из ничего. Мы - группа единомышленников, которая просто хочет реализовать свою мечту - создать персонального помощника будущего. Ведь что такое "Персональный"? Это значит: только ваш. Это значит, что он будет делать то, что нужно именно вам, и работать только на вас.
+					</p>
+					<p>Почему считается нормальным, что вы не можете сменить вашему помощнику имя? Ведь любому программисту известно, что такую функцию можно написать за 5 минут. Почему считается нормальным, что вы должны быть рабом своего устройства без возможности настроить помощника например на Linux? Почему вы не можете прицепить к нему скрипт, выполняющийся по определённой фразе? Не можете сделать ему приятный аватар? Почему они требуют наличия сети и без спроса отправляют ваши данные рекламщикам? Почему необходимо довольствоваться личностью, которую придумал кто-то другой и спустил сверху как должное? Мы с этим не согласны.
+					</p>
+					<p>Честно признаемся - мы не какие-то супер-специалисты, иначе бы нас уже давно загребли на зарплату 300кк/нс. Мы не совсем понимаем, что с нашими планами надо делать. У нас нет возможности посвятить этому проекту всю жизнь, потому что кушать тоже надо, мы не сделаем и десятой части работы сами. Такой проект либо быстро заглохнет без широкого сообщества и открытого кода, либо превратится в ещё одну выжималку для денег пользователей, полностью извратив наши цели.
+					</p>
+					<p>Поэтому мы призываем вас помочь проекту. Нам даже не столько нужны деньги, сколько единомышленники и волонтёры.</p>
+				</div>
+			</section>
+		</div>
+		<div class="wrapper row3 state" style="min-height: 300px; padding-top: 30px;">
+			<section class="hoc container clear">
+				<div class="center btmspace-50">
+					<h2 style="font-size: 2em" class="heading">Что DeskChan умеет уже сейчас</h2>
+				</div>
+				<div class="questions-list">
+					<ul class="questions-list__column-one-third">
+						<li class="question-item active" data-for="1">
+							<a><i class="fa fa-sitemap"></i><span class="text">Органайзер</span><i class="fa fa-chevron-right"></i></a>
+						</li>
+						<li class="question-item" data-for="2">
+							<a><i class="fa fa-desktop"></i><span class="text">Управление компьютером</span><i class="fa fa-chevron-right"></i></a>
+						</li>
+						<li class="question-item" data-for="3">
+							<a><i class="fa fa-sun-o"></i><span class="text">Погода</span><i class="fa fa-chevron-right"></i></a>
+						</li>
+						<li class="question-item" data-for="4">
+							<a><i class="fa fa-globe"></i><span class="text">Переводчик</span><i class="fa fa-chevron-right"></i></a>
+						</li>
+						<li class="question-item" data-for="5">
+							<a><i class="fa fa-calculator"></i><span class="text">Калькулятор</span><i class="fa fa-chevron-right"></i></a>
+						</li>
+						<li class="question-item" data-for="6">
+							<a><i class="fa fa-user"></i><span class="text">Кастомизация</span><i class="fa fa-chevron-right"></i></a>
+						</li>
+						<li class="question-item" data-for="7">
+							<a><i class="fa fa-keyboard-o"></i><span class="text">Горячие клавиши</span><i class="fa fa-chevron-right"></i></a>
+						</li>
+					</ul>
+					<div class="questions-list__column-two-third">
+						<div class="answers active" data-for="1">
+							<ul class="answers-list">
+								<li data-text="1">Настраивайте напоминания одной фразой</li>
+								<li data-text="2">"Поставь будильник на 17 часов"</li>
+								<li data-text="3">"Поставь таймер на 10 минут"</li>
+								<li data-text="4">"Открой секундомер"</li>
+							</ul>
+						</div>
+						<div class="answers" data-for="2">
+							<ul class="answers-list">
+								<li data-text="1">Забудьте про клики по кнопкам, управляйте компьютером речью</li>
+								<li data-text="2">"Выключи компьютер через десять минут"</li>
+								<li data-text="3">"Открой хабрахабр"</li>
+								<li data-text="4">"Запусти блокнот"</li>
+							</ul>
+						</div>
+						<div class="answers" data-for="3">
+							<ul class="answers-list">
+								<li data-text="1">Узнайте погоду на неделе</li>
+								<li data-text="2">"Какая погода сейчас?"</li>
+								<li data-text="3">"Что будет с погодой через пять дней?"</li>
+							</ul>
+						</div>
+						<div class="answers" data-for="4">
+							<ul class="answers-list">
+								<li data-text="1">Переводите текст на лету</li>
+								<li data-text="2">"Переведи Привет, как дела?"</li>
+								<li data-text="3">"Переведи с русского на французский Какой прекрасный день!"</li>
+							</ul>
+						</div>
+						<div class="answers" data-for="5">
+							<ul class="answers-list">
+								<li data-text="1">Посчитайте любой пример</li>
+								<li data-text="2">"Вычисли 2^10"</li>
+								<li data-text="3">"Посчитай мне 1 + 2 - 3 + 4 - 5"</li>
+							</ul>
+						</div>
+						<div class="answers" data-for="6">
+							<ul class="answers-list">
+								<li data-text="1">Сами выберите, как будет выглядеть ваш помощник</li>
+								<li data-text="2">Выберите скин персонажа или сделайте сами</li>
+								<li data-text="3">Измените дизайн интерфейса</li>
+								<li data-text="4">Перенесите вашего помощника туда, где вам будет удобно</li>
+								<li data-text="5">Решите, стоит ли ему всегда быть на виду или только по запросу</li>
+							</ul>
+						</div>
+						<div class="answers" data-for="7">
+							<ul class="answers-list">
+								<li data-text="1">Назначьте на горячие клавиши любые события в системе</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</section>
+		</div>
+		<div class="bgded overlay" style="background-image:url('images/backgrounds/01.png');">
+			<section class="testimonials hoc container clear">
+				<div>
+					<h1 class="heading">DeskChan нужна ваша помощь!</h1>
+					<p>На данный момент DeskChan находится в разработке, но поскольку проект полностью некоммерческий и разрабатывается в рамках открытой лицензии, мы не можем полностью посвятить себя разработке или нанять больший штат.</p>
+					<p>Однако, DeskChan специально разрабатывается такой, чтобы вступить в разработку мог любой желающий! Поэтому, если вы хотите нам помочь или просто расширить некоторые возможности DeskChan, то вперёд! Для этого вам нужно лишь желание и усердие.</p>
+					<p>Ниже вы найдёте разделы, в которых подробно описано, как вступить в разработку DeskChan и в чём именно вы можете нам помочь.</p>
+				</div>
+				<div class="blocks">
+					<ul class="nospace group">
+						<li class="one_third first bgded overlay" style="background-image:url('images/code.jpg');">
+							<a class="btn medium inverse" target="_blank" href="https://forum.deskchan.info/topic/18/%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0">Программистам</a>
+						</li>
+						<li class="one_third bgded overlay" style="background-image:url('images/draw.jpg');">
+							<a class="btn medium inverse" target="_blank" href="https://forum.deskchan.info/topic/17/%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C-%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0">Художникам</a>
+						</li>
+						<li class="one_third bgded overlay" style="background-image:url('images/scenario.jpg');">
+							<a class="btn medium inverse" target="_blank" href="https://forum.deskchan.info/topic/32/%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%84%D1%80%D0%B0%D0%B7">Писателям</a>
+						</li>
+					</ul>
+					<div class="donate">
+						<p>Поддержите проект материально!</p>
+						<p>QIWI-кошелёк: +79032918665</p>
+						<p>QIWI-ваучер: пришлите его <a target="_blank" href="https://t.me/Suiseiseki">@Suiseiseki</a> в Telegram</p>
+						<a target="_blank" href="http://www.donationalerts.ru/r/deskchan">Через Donation Alerts</a>
+					</div>
+				</div>
+				<h3>Помимо этого нам требуются:</h3>
+				<ul>
+					<li>Тестировщики</li>
+					<li>Пиарщики</li>
+					<li>Переводчики</li>
+				</ul>
+				<p>Всё ещё не знаете, чем помочь или у вас есть другие предложения? Зайдите например
+					<a style="color: #9BAFFF; font-weight: bold;" href="https://forum.deskchan.info/category/7/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B2-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5">вот сюда</a>. И обязательно свяжитесь с нами! Контакты внизу страницы.
+				</p>
+			</section>
+		</div>
+		<div class="wrapper row3 state" style="min-height: 680px; padding-top: 30px;">
+			<section class="hoc container clear">
+				<div class="center btmspace-50">
+					<h2 style="font-size: 2em" class="heading">Текущее состояние проекта</h2>
+					<p style="font-size: 1.3em">Здесь вы можете в целом узнать состояние дел проекта.</p>
+				</div>
+				<ul class="nospace elements tooshort">
+					<li class="one_quarter first">
+						<article style="background: #51c7ff;">
+							<h2>Текущая версия</h2>
+						</article>
+						<div class="txtwrap">
+							<h6 class="heading" style="font-size: 1.5em">Версия<br><span class='version-full'>0.2.7-r363<span></h6>
+							<h6 style="font-size: 1.3em" class='release-date'>17 декабря, 2017</h6>
+							<h6 style="font-size: 1.4em">Размер: <span class="size-full">~22</span> МБ</h6>
+							<ul id="update">
+								<li>Горячие клавиши</li>
+								<li>Радио</li>
+								<li>Секундомер</li>
+								<li>Улучшение интерфейса</li>
+								<li>Рефакторинг кода</li>
+								<li>Исправлено много багов</li>
+							</ul>
+							<footer style="margin-top: 20px"><a href="https://github.com/DeskChan/DeskChan/releases">История версий &raquo;</a></footer>
+						</div>
+					</li>
+					<li class="one_quarter">
+						<article style="background: #22d258;">
+							<h2>Текущие планы</h2>
+						</article>
+						<div class="txtwrap">
+							<div class="todo-container todo-get-purp" style="margin-left: -10px;">
+								<div class="list-item"><i class="fa fa-times todo"></i>Распознавание речи</div>
+								<div class="list-item"><i class="fa fa-times todo"></i>Зачатки общения</div>
+								<div class="list-item"><i class="fa fa-times todo"></i>Изменение речи с характером</div>
+								<div class="list-item"><i class="fa fa-times todo"></i>Редизайн интерфейса</div>
+								<div class="list-item"><i class="fa fa-times todo"></i>Нормальное внедрение сценариев</div>
+							</div>
+						</div>
+					</li>
+					<li class="one_half">
+						<article style="background: #ff5151;">
+							<h2>Выход из альфы</h2>
+						</article>
+						<div class="txtwrap">
+							<div class="todo-container one_half first">
+								<div class="diagram">
+									<div>
+										<div class="filled"></div>
+									</div>
+									<div class="center">20%</div>
+								</div>
+								<div class="list-item"><i class="fa fa-check done"></i>Интерфейс плагинов </div>
+								<div class="list-item"><i class="fa fa-check done"></i>Настройка характера</div>
+								<div class="list-item"><i class="fa fa-check done"></i>Вызов команд</div>
+								<div class="list-item"><i class="fa fa-clock-o proc"></i>Маскот</div>
+								<div class="list-item"><i class="fa fa-clock-o proc"></i>Диалог с персонажем</div>
+							</div>
+							<div class="todo-container one_half">
+								<div class="list-item"><i class="fa fa-clock-o proc"></i>Мобильная версия </div>
+								<div class="list-item"><i class="fa fa-check done"></i>Английская локализация</div>
+								<div class="list-item"><i class="fa fa-times todo"></i>Голосовое общение</div>
+								<div class="list-item"><i class="fa fa-times todo"></i>Макросы устройств ввода</div>
+								<div class="list-item"><i class="fa fa-times todo"></i>Анимация</div>
+								<div class="list-item"><i class="fa fa-times todo"></i>Обогнать IT-гигантов</div>
+								<div class="list-item"><i class="fa fa-times todo"></i>Найти $1 млрд инвестциий</div>
+								<div class="list-item"><i class="fa fa-times todo"></i>Захватить весь мир</div>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</section>
+		</div>
+		<div class="wrapper row4" id="contacts">
+			<footer id="footer" class="hoc clear">
+				<h6 class="title">СВЯЖИТЕСЬ С НАМИ</h6>
+				<ul class="nospace linklist contact">
+					<li>
+						<a target="_blank" href="https://t.me/DeskChan">
+							<img src="https://seeklogo.com/images/T/telegram-logo-AD3D08A014-seeklogo.com.png" class="img-circle">
+							<div class="link">Новости (канал в Telegram)</div>
+						</a>
+					</li>
+					<li>
+						<a target="_blank" href="index.html">
+							<img src="https://seeklogo.com/images/T/telegram-logo-AD3D08A014-seeklogo.com.png" class="img-circle">
+							<div class="link">Флудилка (чат в Telegram)</div>
+						</a>
+					</li>
+					<li>
+						<a target="_blank" href="https://vk.com/deskchan">
+							<img src="images/vk-logo.png" class="img-circle">
+							<div class="link">Группа Вконтакте</div>
+						</a>
+					</li>
+					<li>
+						<a target="_blank" href="cdn-cgi/l/email-protection#a2c6c7d1c9c1cac3ccd2d0cdc8c7c1d6e2c5cfc3cbce8cc1cdcf">
+							<img class="img-circle" src="mail.png">
+							<div class="link"><span class="__cf_email__" data-cfemail="e68283958d858e87889694898c838592a6818b878f8ac885898b">[email&#160;protected]</span></div>
+						</a>
+					</li>
+					<li>
+						<a target="_blank" href="https://0chan.hk/deskchan">
+							<img src="0chan.png" class="nullchan">
+							<div class="link">/deskchan/</div>
+						</a>
+					</li>
+					<li>
+						<a target="_blank" href="https://tulpawiki.org/doku.php">
+							<img src="tulpa.png" class="img-circle lastbutton">
+							<div class="link">Наши друзья — TulpaWiki</div>
+						</a>
+					</li>
+				</ul>
+			</footer>
+		</div>
+		<div class="wrapper row5" style="background-color:#1F1F1F;">
+			<div id="copyright" class="hoc clear">
+				<p class="fl_left">&copy; DeskChan, 2016-2018</p>
+			</div>
+		</div>
+		<a id="backtotop" href="index.html#top"><i class="fa fa-chevron-up"></i></a>
+		<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="layout/scripts/jquery.min.js"></script>
+		<script src="layout/scripts/jquery.backtotop.js"></script>
+		<script src="layout/scripts/jquery.mobilemenu.js"></script>
+		<script src="layout/scripts/jquery.placeholder.min.js"></script>
+	</body>
+</html>
